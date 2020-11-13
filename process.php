@@ -4,8 +4,8 @@ class Process
 {
     private $host = 'localhost';
     private $dbname = 'cadastrar_logar';
-    private $username = '';                 //aqui vai seu username
-    private $password = '';                 //aqui vai sua password
+    private $username = '';
+    private $password = '';
 
     private $pdo;
     public $msg_error = "";
