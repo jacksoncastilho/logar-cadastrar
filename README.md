@@ -14,7 +14,7 @@ Nesse projeto mostro como criar uma tela simples de cadastro e login, como fazer
 
 ## Como Parametrizar Seu Banco de Dados
 
-Criar o banco de dados e a tabela em que os dados vão ficar armazenado. Os nomes ```registro``` e ```cadastroUsuarios``` podem ser substituidos, assim como os nomes das colunas da tabela.
+Criar o banco de dados e a tabela em que os dados vão ficar armazenados. Os nomes ```registro``` e ```cadastroUsuarios``` podem ser substituidos, assim como os nomes das colunas da tabela.
 
 ```sql
 CREATE DATABASE registros;
