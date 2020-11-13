@@ -1,8 +1,8 @@
 # Logar-Cadastrar
 
-Formulários de cadastro e login sempre foram muito comuns nos sites. Eles são responsáveis por permitir que um usuario registrado tenha acesso a sua pagina restrita.
+Formulários de cadastro e login sempre foram muito comuns nos sites. Eles são responsáveis por permitir que um usuário registrado tenha acesso a sua página restrita.
 
-Nesse projeto mostro como criar uma tela simples de cadastro e login, como fazer a conexão com o banco de dados e a verificação se o usuário já está cadastrado.
+Nesse projeto mostro como criar uma tela simples de cadastro e login, como fazer a conexão com o banco de dados e verificação se o usuário já está cadastrado.
 
 ## Demo
 
@@ -14,7 +14,7 @@ Nesse projeto mostro como criar uma tela simples de cadastro e login, como fazer
 
 ## Como Parametrizar Seu Banco de Dados
 
-Criar o banco de dados e a tabela em que os dados vão ficar armazenado. Os nomes ```registro``` e ```cadastroUsuarios``` podem ser substituidos, assim como os nomes das colunas da tabela
+Criar o banco de dados e a tabela em que os dados vão ficar armazenado. Os nomes ```registro``` e ```cadastroUsuarios``` podem ser substituidos, assim como os nomes das colunas da tabela.
 
 ```sql
 CREATE DATABASE registros;
