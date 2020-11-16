@@ -2,7 +2,7 @@
 
 Formulários de cadastro e login sempre foram muito comuns nos sites. Eles são responsáveis por permitir que um usuário registrado tenha acesso a sua página restrita.
 
-Nesse projeto mostro como criar uma tela simples de cadastro e login, como fazer a conexão com o banco de dados e verificação se o usuário já está cadastrado.
+Nesse projeto mostro como criar uma tela simples de cadastro e login, como fazer a conexão com o banco de dados e a verificação se o usuário já está cadastrado.
 
 ## Demo
 
