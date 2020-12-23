@@ -6,11 +6,9 @@ Nesse projeto mostro como criar uma tela simples de cadastro e login, como fazer
 
 ## Demo
 
+![](https://github.com/jacksoncastilho/Logar-Cadastrar/blob/main/img/Screenshot%20from%202020-12-22%2013-03-18.png)
 
-![](https://github.com/jacksoncastilho/Logar-Cadastrar/blob/main/pictures/Captura%20de%20tela%202020-11-10%20075546.png)
-
-![](https://github.com/jacksoncastilho/Logar-Cadastrar/blob/main/pictures/Captura%20de%20tela%202020-11-10%20075721.png)
-
+![](https://github.com/jacksoncastilho/Logar-Cadastrar/blob/main/img/Screenshot%20from%202020-12-22%2013-03-22.png)
 
 ## Como Parametrizar Seu Banco de Dados
 
