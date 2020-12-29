@@ -4,8 +4,8 @@ class Process
 {
     private $host = 'localhost';
     private $dbname = 'regitros';
-    private $username = 'admin';
-    private $password = 'senha';
+    private $username = '';
+    private $password = '';
 
     private $pdo;
     public $msg_error = "";
